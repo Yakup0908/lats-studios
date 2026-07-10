@@ -1,0 +1,55 @@
+{
+  "project": "Lats Studios",
+  "version": "v.1.0.0",
+  "last_updated": "2026-07-10",
+  "songs": [
+    {
+      "id": 1,
+      "name": "Metallica - Nothing Else Matters",
+      "artist": "Metallica",
+      "url": "https://www.youtube.com/watch?v=Tj75Arhq5ho",
+      "duration": "6:28",
+      "added_by": "Lats"
+    },
+    {
+      "id": 2,
+      "name": "Eminem - Lose Yourself",
+      "artist": "Eminem",
+      "url": "https://www.youtube.com/watch?v=_Yhyp-_hX2s",
+      "duration": "5:26",
+      "added_by": "Lats"
+    },
+    {
+      "id": 3,
+      "name": "Linkin Park - In The End",
+      "artist": "Linkin Park",
+      "url": "https://www.youtube.com/watch?v=eVTXPUF4Oz4",
+      "duration": "3:36",
+      "added_by": "Lats"
+    },
+    {
+      "id": 4,
+      "name": "Imagine Dragons - Believer",
+      "artist": "Imagine Dragons",
+      "url": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+      "duration": "3:24",
+      "added_by": "Lats"
+    },
+    {
+      "id": 5,
+      "name": "AC/DC - Thunderstruck",
+      "artist": "AC/DC",
+      "url": "https://www.youtube.com/watch?v=v2AC41dglnM",
+      "duration": "4:52",
+      "added_by": "Lats"
+    },
+    {
+      "id": 6,
+      "name": "Tupac - Changes",
+      "artist": "2Pac",
+      "url": "https://www.youtube.com/watch?v=eXvBjCO19QY",
+      "duration": "4:29",
+      "added_by": "Lats"
+    }
+  ]
+}
